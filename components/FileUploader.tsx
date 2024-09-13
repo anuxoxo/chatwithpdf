@@ -3,11 +3,11 @@
 import React, { useCallback } from "react";
 import { useDropzone } from "react-dropzone";
 import {
-  CheckCircleIcon,
+  // CheckCircleIcon,
   CircleArrowDown,
-  HammerIcon,
+  // HammerIcon,
   RocketIcon,
-  SaveIcon,
+  // SaveIcon,
 } from "lucide-react";
 
 function FileUploader() {
